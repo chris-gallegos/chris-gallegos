@@ -1,5 +1,5 @@
 # 💫 About Me:
-😀 I'm a Software Engineer with a passion for staying active, reading and coding! <br>🤓 What excites me about coding is being able to creatively solve problems and build things. <br>🗣 I thrive in a team environment and love talking through problems with my teammates. <br>
+😀 I'm a Software Engineer with a passion for staying active, reading and coding! 
 
 
 ## 🌐 Socials:
